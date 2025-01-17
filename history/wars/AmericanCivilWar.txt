@@ -2,10 +2,10 @@ name = "American Civil War"
 war_goal = {
     type = defend_capital_independence
 	casus_belli = cb_independence_war
-	tag = CON
+	tag = COF
 }
 
 1861.4.12 = {
-    add_attacker = CON
+    add_attacker = COF
     add_defender = USA
 }

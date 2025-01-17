@@ -40,4 +40,4 @@ discovered_by = north_american
 } # Declaration of independence
 
 1782.11.1 = { unrest = 0 } # Preliminary articles of peace, the British recognized American independence
-1861.4.12 = { owner = CON controller = CON add_core = CON }
+1861.4.12 = { owner = COF controller = COF add_core = COF }

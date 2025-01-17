@@ -34,4 +34,4 @@ discovered_by = north_american
 1776.7.4 = { owner = USA controller = USA add_core = USA } 
 1782.11.1 = { remove_core = GBR unrest = 0 } # Preliminary articles of peace, the British recognized American independence
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CON controller = CON add_core = CON }
+1861.4.12 = { owner = COF controller = COF add_core = COF }
