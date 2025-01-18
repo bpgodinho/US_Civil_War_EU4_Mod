@@ -1,0 +1,6 @@
+vassal = {
+    first = USA
+    second = CNF
+    start_date = 1861.4.12
+    end_date = 1866.8.20
+}

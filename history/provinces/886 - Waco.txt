@@ -25,4 +25,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CON controller = CON add_core = CON }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
