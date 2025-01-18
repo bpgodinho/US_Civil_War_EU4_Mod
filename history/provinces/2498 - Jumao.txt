@@ -12,7 +12,7 @@ native_ferocity = 1
 native_hostileness = 2
 tribal_owner = MSC
 discovered_by = north_american
-1541.1.1 = { discovered_by = SPA } # 1685.2.18 = { discovered_by = FRA } # Renï¿½-Robert Cavelier
+1541.1.1 = { discovered_by = SPA } # 1685.2.18 = { discovered_by = FRA } # René-Robert Cavelier
 1682.1.1 = { 
     owner = SPA
     controller = SPA
@@ -33,4 +33,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = COF controller = COF add_core = COF }
+1861.4.12 = { owner = CON controller = CON add_core = CON }

@@ -28,7 +28,7 @@ discovered_by = north_american
     controller = USA
     add_core = USA
     remove_core = SPA
-} # The Adams-Onï¿½s Treaty
+} # The Adams-Onís Treaty
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = COF controller = COF add_core = COF }
+1861.4.12 = { owner = CON controller = CON add_core = CON }

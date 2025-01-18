@@ -20,4 +20,4 @@ discovered_by = north_american
     religion = protestant
 }
 
-1861.4.12 = { owner = COF controller = COF add_core = COF }
+1861.4.12 = { owner = CON controller = CON add_core = CON }

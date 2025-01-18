@@ -11,7 +11,7 @@ native_size = 10
 native_ferocity = 2
 native_hostileness = 9
 discovered_by = north_american
-1528.11.6 = { discovered_by = SPA } # ï¿½lvar Nï¿½ï¿½ez Cabeza de Vaca
+1528.11.6 = { discovered_by = SPA } # Álvar Núñez Cabeza de Vaca
 1682.1.1 = { discovered_by = FRA } 
 1718.1.1 = { 
     owner = SPA
@@ -33,4 +33,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = COF controller = COF add_core = COF }
+1861.4.12 = { owner = CON controller = CON add_core = CON }

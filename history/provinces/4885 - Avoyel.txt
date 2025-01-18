@@ -50,4 +50,4 @@ discovered_by = north_american
 } # The Louisiana purchase
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = COF controller = COF add_core = COF }
+1861.4.12 = { owner = CON controller = CON add_core = CON }
