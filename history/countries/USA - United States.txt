@@ -3,7 +3,7 @@ technology_group = western
 primary_culture = american
 religion = protestant
 capital = 965	# New York
-historical_rival = CON
+historical_rival = CNF
 
 #1700.1.1 = { decision = agricultural_cultivation }
 

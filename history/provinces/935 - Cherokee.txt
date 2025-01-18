@@ -26,4 +26,4 @@ discovered_by = north_american
     religion = protestant
 } # Treaty of Fort Holston, end of Chickamauga wars and Cherokee resistance
 
-1861.4.12 = { owner = CON controller = CON add_core = CON }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF }

@@ -59,7 +59,7 @@ country_decisions = {
 				OR = {
 					has_country_modifier = the_abolish_slavery_act
 					tag = USA
-					tag = CON
+					tag = CNF
 				} 
 			}
 			slaves = 1

@@ -6,20 +6,20 @@ bookmark =
 	
 	center = 940
 	country = USA
-	country = CON
+	country = CNF
 	
 	easy_country = USA
 
 	effect = {
 		USA = {
-			add_rival = CON
+			add_rival = CNF
 			add_opinion = {
-				who = CON
+				who = CNF
 				modifier = damn_traitors_us
 				multiplier = 10
 			}
 		}
-		CON = {
+		CNF = {
 			add_rival = USA
 			add_opinion = {
 				who = USA

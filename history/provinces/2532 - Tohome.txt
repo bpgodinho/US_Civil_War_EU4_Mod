@@ -33,4 +33,4 @@ discovered_by = north_american
 } # Treaty of Hopewell (with the Choctaw), come under US authority
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CON controller = CON add_core = CON }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
