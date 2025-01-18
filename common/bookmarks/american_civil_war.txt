@@ -1,0 +1,31 @@
+bookmark =
+{
+	name = "USACIV_NAME"
+	desc = "USACIV_DESC"
+	date = 1861.4.12
+	
+	center = 940
+	country = USA
+	country = CON
+	
+	easy_country = USA
+
+	effect = {
+		USA = {
+			add_rival = CON
+			add_opinion = {
+				who = CON
+				modifier = damn_traitors_us
+				multiplier = 10
+			}
+		}
+		CON = {
+			add_rival = USA
+			add_opinion = {
+				who = USA
+				modifier = damn_traitors_con
+				multiplier = 10
+			}
+		}
+	}
+}
