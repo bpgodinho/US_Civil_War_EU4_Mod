@@ -28,3 +28,11 @@ discovered_by = north_american
 	trade_goods = fish
 	religion = orthodox 
 }
+1861.4.12 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	is_city = yes
+	culture = russian
+	religion = orthodox 
+}

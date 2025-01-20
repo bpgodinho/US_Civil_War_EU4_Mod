@@ -1,5 +1,4 @@
 # No previous file for Ottagotouemin
-
 culture = algonquin
 religion = totemism
 capital = "Ottagotouemin"
@@ -13,4 +12,4 @@ native_ferocity = 1
 native_hostileness = 2
 tribal_owner = AGQ
 discovered_by = north_american
-
+1861.4.12 = { discovered_by = GBR owner = GBR controller = GBR add_core = GBR remove_core = FRA culture = english religion = protestant }

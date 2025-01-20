@@ -1,0 +1,40 @@
+secession = {
+    category = 6
+    power_projection = 25
+    power_cost_base = 0.0
+    prestige_base = 0.2
+    ae_base = 0.0
+    warscore_cost = {
+        all_provinces = 999.0
+		no_provinces = 999.0
+		owner_keeps = 999.0
+		conquered = 999.0
+		returned_core = 999.0
+		released_nation = 999.0
+		cancelled_subject = 999.0
+		concede_colonial_region = 999.0
+    }
+    warscore_cap = 80.0
+    is_make_subject = yes
+
+    is_visible = {
+        has_country_flag = CNF_civil_war
+    }
+    is_allowed = {
+        always = yes
+    }
+    effect = {
+        remove_claim = USA
+        remove_core = USA
+        clr_country_flag = CNF_civil_war
+        USA = {
+            clr_country_flag = USA_civil_war
+        }
+    }
+    ai_weight = {
+        export_to_variable = {
+            variable_name = ai_value
+            value = 9999
+        }
+    }
+}

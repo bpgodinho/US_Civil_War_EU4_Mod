@@ -123,6 +123,12 @@ historical_rival = CNF
 	}
 }
 
+1861.4.11 = {
+	north_america = {
+		discover_country = USA
+	}
+}
+
 1861.4.12 = {
 	set_country_flag = USA_civil_war
 }

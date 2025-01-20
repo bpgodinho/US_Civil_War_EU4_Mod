@@ -21,4 +21,9 @@ discovered_by = north_american
     religion = protestant
 } # Treaty of Fort Clark
 
-1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
+1861.4.12 = { 
+	owner = CNF
+	controller = CNF
+	add_core = CNF
+	fort_18th = yes
+}

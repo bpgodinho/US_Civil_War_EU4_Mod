@@ -26,3 +26,13 @@ discovered_by = north_american
 
 1755.1.1 = { discovered_by = GBR } #Henday
 
+1861.4.12 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = FRA
+	culture = english
+	religion = protestant
+}
+
