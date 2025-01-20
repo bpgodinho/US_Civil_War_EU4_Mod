@@ -2052,7 +2052,7 @@ country_event = {
 			}
 			NOT = { any_owned_province = { has_province_modifier = slave_entrepot } }
 			NOT = { has_country_modifier = the_abolish_slavery_act }
-			NOT = { has_country_modifier = US_abolish_slavery}
+			NOT = { has_country_flag = US_abolish_slavery}
 			NOT = { has_reform = war_against_the_world_doctrine_reform }
 		}
 		any_owned_province = {

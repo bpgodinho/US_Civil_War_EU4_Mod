@@ -32,6 +32,7 @@ country_event = {
                 }  
             }
             USA = {
+                set_country_flag = US_abolish_slavery
                 release = CNF
                 add_rival = CNF
                 add_opinion = {
