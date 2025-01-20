@@ -1,0 +1,16 @@
+name = "American Civil War"
+war_goal = {
+    type = defend_capital_independence
+	casus_belli = cb_independence_war
+    tag = CNF
+}
+
+1861.4.12 = {
+    add_attacker = CNF
+    add_defender = USA
+}
+
+1866.8.20 = {
+    rem_attacker = CNF
+    rem_defender = USA
+}

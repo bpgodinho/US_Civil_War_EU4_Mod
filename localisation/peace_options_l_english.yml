@@ -1,0 +1,7 @@
+l_english:
+ PEACE_noconf:0 "[THIS.GetName] denies [FROM.GetName]'s secession"
+ CB_ALLOWED_noconf:0 "Prevented from seceding"
+ noconf_desc:0 "Give up secession"
+ PEACE_secede:0 "[THIS.GetName] secedes from [FROM.GetName]"
+ CB_ALLOWED_secede:0 "Succesfully seceded"
+ secede_desc:0 "Secede from the union (will revoke parent's cores and non permanent claims)"

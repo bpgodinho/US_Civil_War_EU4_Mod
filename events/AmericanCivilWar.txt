@@ -1,0 +1,82 @@
+normal_or_historical_nations = yes
+
+country_event = {
+    id = 10211
+    title = "EVTNAME10211"
+    desc = "EVTDESC10211"
+	picture = ANGRY_MOB_eventPicture
+    trigger = {
+        NOT = { exists = CNF }
+        NOT = { has_country_flag = USA_civil_war}
+        capital_scope = { continent = north_america }
+        952 = {
+            owner = USA
+        }
+        950 = {
+            owner = USA
+        }
+        is_year = 1861
+    }
+    mean_time_to_happen = {
+        months = 2
+    }
+    option = {
+		name = "EVTOPTA10211" # Send troops
+		hidden_effect = {
+            confederacy_group = {
+                if = {
+                    limit = {
+                        owner = USA
+                    }
+                    add_core = CNF
+                }  
+            }
+            USA = {
+                set_country_flag = US_abolish_slavery
+                release = CNF
+                add_rival = CNF
+                add_opinion = {
+                    who = CNF
+                    modifier = damn_traitors_us
+                    multiplier = 10
+                }
+                set_country_flag = USA_civil_war
+            }
+            CNF = {
+                add_rival = USA
+                add_opinion = {
+                    who = USA
+                    modifier = damn_traitors_con
+                    multiplier = 10
+                }
+                declare_war_with_cb = {
+                    who = USA
+                    casus_belli = cb_independence_war
+                }
+                set_country_flag = CNF_civil_war
+                950 = {
+                    add_unit_construction = {
+                        type = infantry
+                        amount = 36
+                        speed = 0.0001
+                        cost = 0
+                    }
+                    add_unit_construction = {
+                        type = cavalry
+                        amount = 16
+                        speed = 0.0001
+                        cost = 0
+                    }
+                    add_unit_construction = {
+                        type = artillery
+                        amount = 5
+                        speed = 0.0001
+                        cost = 0
+                    }
+                }
+            }
+            
+        }
+
+	}
+}
