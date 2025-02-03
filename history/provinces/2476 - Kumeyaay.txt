@@ -25,7 +25,15 @@ discovered_by = north_american
 1776.1.1 = { unrest = 0 } 
 1794.1.1 = { add_core = SPA } 
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1848.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1821.10.24 = { controller = MEX }
+1848.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1849.2.1 = { 
     owner = USA
     controller = USA

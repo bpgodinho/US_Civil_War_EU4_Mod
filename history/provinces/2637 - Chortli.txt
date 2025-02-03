@@ -30,4 +30,5 @@ discovered_by = mesoamerican
 1525.1.1 = { capital = "La Navidad" } # New settlement by Cortez
 1536.1.1 = { capital = "Puerto de Caballos" } # New name again
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1861.4.12 = { owner = MEX add_core = MEX controller = MEX }
+1821.10.24 = { controller = MEX }
+1861.4.12 = { owner = MEX add_core = MEX controller = MEX } 
