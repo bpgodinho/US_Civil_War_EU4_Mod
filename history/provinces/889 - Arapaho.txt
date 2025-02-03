@@ -12,7 +12,22 @@ native_ferocity = 3
 native_hostileness = 9
 discovered_by = north_american
 1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1832.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1838.2.1 = { 
+    add_core = USA
+    controller = USA
+    culture = American
+    religion = protestant
+}
+
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

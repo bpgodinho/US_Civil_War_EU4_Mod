@@ -21,7 +21,15 @@ discovered_by = north_american
     is_city = yes
 } # Migration so Fort Astoria can be properly built
 
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1846.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

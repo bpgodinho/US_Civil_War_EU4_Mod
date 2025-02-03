@@ -20,7 +20,15 @@ discovered_by = north_american
     trade_goods = fur
 } # Fort Nez Percés
 
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1846.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

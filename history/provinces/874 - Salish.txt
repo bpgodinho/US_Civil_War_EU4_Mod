@@ -17,7 +17,15 @@ native_hostileness = 6
 discovered_by = north_american
 1543.1.1 = { discovered_by = SPA } # Sighted by Spanish explorers
 1741.1.1 = { discovered_by = RUS } # Vitus Bering & Aleksei Chirikov
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1846.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

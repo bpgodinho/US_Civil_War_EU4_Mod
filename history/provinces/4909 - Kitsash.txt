@@ -13,6 +13,14 @@ native_hostileness = 6
 tribal_owner = WIC
 discovered_by = north_american
 1541.1.1 = { discovered_by = SPA } 
+1832.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1838.2.1 = { 
+    add_core = USA
+    controller = USA
+    culture = American
+    religion = protestant
+}
+
 1849.2.1 = { 
     owner = USA
     controller = USA
@@ -22,4 +30,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF } 

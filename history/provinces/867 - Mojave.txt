@@ -12,7 +12,15 @@ native_ferocity = 1
 native_hostileness = 4
 discovered_by = north_american
 1774.1.1 = { discovered_by = SPA } # Colonists never really settled this far inland
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1848.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

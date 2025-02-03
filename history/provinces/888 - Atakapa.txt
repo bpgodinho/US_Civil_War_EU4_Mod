@@ -25,6 +25,7 @@ discovered_by = north_american
 } # Spanish missions
 
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1845.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
 1849.2.1 = { 
     owner = USA
     controller = USA
@@ -34,4 +35,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF } 

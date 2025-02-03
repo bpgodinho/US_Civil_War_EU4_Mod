@@ -25,7 +25,15 @@ center_of_trade = 1
 1792.1.1 = { capital = "Yerba Buena" } # Name used according to George Vancouver
 1795.1.1 = { culture = castillian religion = catholic } 
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1848.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA

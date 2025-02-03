@@ -15,6 +15,7 @@ discovered_by = mesoamerican
 discovered_by = north_american
 1519.1.1 = { discovered_by = SPA } # Alonso Alvarez de Pineda
 1685.2.18 = { discovered_by = FRA } # Ren�-Robert Cavelier
+1845.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
 1849.2.1 = { 
     owner = USA
     controller = USA
@@ -24,4 +25,4 @@ discovered_by = north_american
 }
 
 1861.1.2 = { owner = USA control = USA } 
-1861.4.12 = { owner = CNF controller = CNF add_core = CNF }
+1861.4.12 = { owner = CNF controller = CNF add_core = CNF } 

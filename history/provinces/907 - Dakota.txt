@@ -24,7 +24,22 @@ discovered_by = north_american
 } # Horses cause waves of migration on the Great Plains
 
 1743.1.1 = { discovered_by = FRA } # Pierre Gaultier de Varennes, no real settlements until the 1800's
-1849.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1832.2.1 = { owner = USA controller = USA add_core = USA culture = american religion = protestant }
+1838.2.1 = { 
+    add_core = USA
+    controller = USA
+    culture = American
+    religion = protestant
+}
+
+1849.2.1 = { 
+    owner = USA
+    controller = USA
+    add_core = USA
+    culture = american
+    religion = protestant
+}
+
 1861.4.12 = { 
     owner = USA
     controller = USA
